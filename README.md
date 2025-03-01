@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### 3. Run a Model
 Now, choose a model to run by executing its corresponding script.
 ```bash
-python ./src/{{model type}}/{{model file}}.py
+python ./src/{{ model_type }}/{{ model_file }}.py
 ```
 For example, to run a linear regression model:
 #### Windows:
